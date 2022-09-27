@@ -1,5 +1,7 @@
 --> The process of turning audio into text is called speech recognition.
+
 --> Voice assistants like Siri, Alexa, and others frequently use this.
+
 --> We can transform audio into text for additional processing using Python's SpeechRecognition API.
 
 ABOUT THE PACKAGES:
