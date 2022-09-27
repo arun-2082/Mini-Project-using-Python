@@ -21,4 +21,4 @@ or to perform a Wikipedia search. To install this module type the below command 
 
 And more..
 
-Since this a beginner level projects, So included only limited number of commands to make the use of the assisstant
+Since this a beginner level projects, So included only limited number of commands to make the use of this assisstant.
