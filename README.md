@@ -15,3 +15,8 @@ pip install pyttsx3
 or to perform a Wikipedia search. To install this module type the below command in the terminal.
 
 * Datetime:- Date and Time are used to showing Date and Time. This module comes built-in with Python. 
+
+
+And more..
+
+Since this a beginner level projects, So included only limited number of commands to make the use of the assisstant
